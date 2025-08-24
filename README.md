@@ -1,4 +1,4 @@
-![erdCapstone3](https://github.com/user-attachments/assets/ab86db06-d92c-4c64-9751-03f35e4b155e)# 📊 SubsTracker - AI-Powered Subscription Management System
+# 📊 SubsTracker - AI-Powered Subscription Management System
 
 ## 🎯 Project Overview
 
@@ -302,7 +302,8 @@ Advanced subscription filtering capabilities:
 
 ### ERD Diagram
 
-![ERD Diagram](![erdCapstone3](https://github.com/user-attachments/assets/104219e0-2bb7-4f7a-bc6f-2cc152856edd))
+![erdCapstone3](https://github.com/user-attachments/assets/ab86db06-d92c-4c64-9751-03f35e4b155e)
+
 
 ## 📋 Project Presentation
 
