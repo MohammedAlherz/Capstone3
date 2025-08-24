@@ -78,7 +78,7 @@
 
 ### External Integrations
 - **Moyasar Payment Gateway**: Secure payment processing (Saudi Arabia)
-- **AI Chat Services**: Intelligent recommendation engine
+- **OpenAI**: Intelligent recommendation engine
 - **Email Services**: SMTP integration for notifications
 
 ### Document Processing
